@@ -1,6 +1,6 @@
 {
     "name": "bolt-cross-workspace-starter",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "index.js",
     "scripts": {
         "start": "node -r dotenv/config index.js"
@@ -11,6 +11,6 @@
         "@prisma/cli": "^2.14.0",
         "@prisma/client": "^2.14.0",
         "@slack/bolt": "^3.0.0",
-        "dotenv": "^8.2.0"
+        "dotenv": "^9.0.0"
     }
 }
